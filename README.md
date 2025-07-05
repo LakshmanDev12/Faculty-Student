@@ -1,0 +1,2 @@
+Firebase Integrated Android App establishes a real-time connection between users and Firebase for seamless data management. The system includes roles for admin, students, and faculty, with easy access to their respective information. Admin login uses default credentials (Username = 1, Password = 1) for demonstration. The app is simple to integrate and supports smooth user-role management via Firebase.
+
